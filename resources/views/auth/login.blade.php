@@ -25,8 +25,8 @@
             </div>
         </form>
         <div class="button">
-            <a href="registerBtn" class="button" style="background-color: orange";>新規登録</a>
-            <a href="loginBtn" class="button" style="background-color: lightblue";>ログイン</a>
+            <a href="register" class="button" style="background-color: orange";>新規登録</a>
+            <a href="products" class="button" style="background-color: lightblue";>ログイン</a>
         </div>
 
     </div>

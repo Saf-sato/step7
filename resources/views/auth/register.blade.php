@@ -25,8 +25,8 @@
             </div>
         </form>
         <div class="button">
-            <a href="registerBtn" class="button" style="background-color: orange";>新規登録</a>
-            <a href="backBtn" class="button" style="background-color: lightblue";>戻る</a>
+            <a href="login" class="button" style="background-color: orange";>新規登録</a>
+            <a href="" class="button" style="background-color: lightblue";>戻る</a>
         </div>
 
     </div>

@@ -19,6 +19,21 @@ return new class extends Migration
             $table->timestamps();
         });
     }
+    //!▪️GPTで提示されたように、各セクションで作ったSQLテーブル内容を入力する　以下一例
+    // public function up()
+    // {
+    //     Schema::create('products', function (Blueprint $table) {
+    //         $table->id();
+    //         $table->foreignId('company_id')->constrained(); // 外部キー
+    //         $table->string('product_name');
+    //         $table->integer('price');
+    //         $table->integer('stock');
+    //         $table->timestamps();
+    //     });
+    
+    // }
+
+    // マイグレーションが作成できたら、もう一度マイグレーションを実行してテーブルを作ること！
 
     /**
      * Reverse the migrations.
